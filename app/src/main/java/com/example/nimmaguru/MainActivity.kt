@@ -1,5 +1,5 @@
 package com.nimmaguru.app
-
+//Standard imports
 import android.content.Context
 import android.content.Intent
 import android.net.Uri
@@ -54,13 +54,14 @@ import com.google.firebase.firestore.ListenerRegistration
 import com.google.firebase.firestore.Query
 import java.util.UUID
 
+//base for modern Compose apps
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        AppPrefs.init(applicationContext)
+        AppPrefs.init(applicationContext)//Initializes local storage
 
         setContent {
-            NimmaGuruApp()
+            NimmaGuruApp()//main ui container
         }
     }
 }
