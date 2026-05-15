@@ -33,8 +33,18 @@ There is a growing disconnect between experienced retirees and youth who need me
   ```
 
 ## Screenshots / Demo
-*(Upload your screenshots to GitHub and link them here)*
-- [Demo Link / Video](#)
+
+### 1. Role Selection & Login Screen
+*(Drag and drop your Role Selection and Login screenshots here)*
+
+### 2. Mentor Dashboard & Wall of Fame
+*(Drag and drop your Mentor Dashboard and Wall of Fame screenshots here)*
+
+### 3. Host Class
+*(Drag and drop your Host Class screenshot here)*
+
+---
+**Demo Video:** [Watch Project Demo Here](#) *(Replace '#' with your YouTube or Google Drive link)*
 
 ## Folder Structure
 ```text
