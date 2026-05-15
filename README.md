@@ -1,11 +1,3 @@
-<img width="340" height="763" alt="Screenshot 2026-05-06 102021" src="https://github.com/user-attachments/assets/7fb40b33-f8aa-4242-90ed-acb2ce7aa008" />
-<img width="340" height="762" alt="Screenshot 2026-05-06 100739" src="https://github.com/user-attachments/assets/ccdee764-d22a-4695-862b-34e86660d980" />
-<img width="344" height="761" alt="Screenshot 2026-05-06 100658" src="https://github.com/user-attachments/assets/3358056e-34fd-4658-a007-1a41a1073453" />
-<img width="343" height="760" alt="Screenshot 2026-05-06 100634" src="https://github.com/user-attachments/assets/857b03f6-0844-4e01-b021-03a82b6d65e7" />
-<img width="342" height="764" alt="Screenshot 2026-05-06 100621" src="https://github.com/user-attachments/assets/f0722f7c-b3f8-4d3b-bb45-5445d4dbb62a" />
-<img width="338" height="758" alt="Screenshot 2026-05-06 100554" src="https://github.com/user-attachments/assets/3d5a5bf0-6be3-4784-9fae-bf130a822df0" />
-<img width="345" height="764" alt="Screenshot 2026-05-06 100540" src="https://github.com/user-attachments/assets/098ab7da-e98f-48c3-b561-9723e99a460a" />
-<img width="350" height="762" alt="Screenshot 2026-05-06 100455" src="https://github.com/user-attachments/assets/c620e7d7-cd38-46a1-ba44-fbae87171eb4" />
 # Nimma-Guru
 
 ## Problem Statement
@@ -42,14 +34,22 @@ There is a growing disconnect between experienced retirees and youth who need me
 
 ## Screenshots / Demo
 
-### 1. Role Selection & Login Screen
-*(Drag and drop your Role Selection and Login screenshots here)*
-
-### 2. Mentor Dashboard & Wall of Fame
-*(Drag and drop your Mentor Dashboard and Wall of Fame screenshots here)*
-
-### 3. Host Class
-*(Drag and drop your Host Class screenshot here)*
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c620e7d7-cd38-46a1-ba44-fbae87171eb4" width="250" />
+  <img src="https://github.com/user-attachments/assets/098ab7da-e98f-48c3-b561-9723e99a460a" width="250" />
+  <img src="https://github.com/user-attachments/assets/3d5a5bf0-6be3-4784-9fae-bf130a822df0" width="250" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f0722f7c-b3f8-4d3b-bb45-5445d4dbb62a" width="250" />
+  <img src="https://github.com/user-attachments/assets/857b03f6-0844-4e01-b021-03a82b6d65e7" width="250" />
+  <img src="https://github.com/user-attachments/assets/3358056e-34fd-4658-a007-1a41a1073453" width="250" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ccdee764-d22a-4695-862b-34e86660d980" width="250" />
+  <img src="https://github.com/user-attachments/assets/7fb40b33-f8aa-4242-90ed-acb2ce7aa008" width="250" />
+</div>
 
 ---
 **Demo Video:** [Watch Project Demo Here](https://drive.google.com/file/d/1ulnooCxRu-j89-xKgQ0b--iVZuhAJsKN/view?usp=sharing)
